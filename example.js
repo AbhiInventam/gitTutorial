@@ -16,4 +16,5 @@ function onRemoveStorageChange() {
   // Localstorage
   localStorage.clear();
   sessionStorage.clear();
+  // change
 }
